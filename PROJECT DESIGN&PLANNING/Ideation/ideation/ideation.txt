@@ -1,0 +1,12 @@
+        SMART WASTE MANAGEMENT SYSTEM FOR METROPOLITAN CITIES
+
+                    ABSTRACT
+
+        With the increasing population and industrialization of nations throughout the globe, waste has become a great concern for all of us.
+Over years, researchers figured that only waste management is not enough for its proper treatment and disposal techniques to preserve our
+environment and keeping it clean in this era of globalization. With the help of technology researchers have, introduced IoT based 
+Smart Waste Management solutions and initiatives that ensures reduced amount of time and energy required to provide waste management services and 
+reduce the amount of waste generated. Unfortunately, developing countries are not being able to implement those existing solutions due to many factors like 
+socio-economic environment. Therefore, in this research we have concentrated our thought on developing a smart IoT based waste management system for 
+developing countries like INDIA that will ensure proper disposal, collection, transportation and recycling of household waste with the minimum amount of 
+resources being available.
