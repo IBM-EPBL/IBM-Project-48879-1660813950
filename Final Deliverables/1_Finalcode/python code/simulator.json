@@ -1,0 +1,48 @@
+{
+  "deviceTypes": [
+    {
+      "id": "PNT2022TMID52274",
+      "running": true,
+      "events": [
+        {
+          "id": "event_2",
+          "frequency": {
+            "repeat": 20,
+            "every": "minute"
+          },
+          "json": "{\n  \"randomNumber\": random(0, 100),\n  \"sampleObject\": {\n    \"xcord\": 32.514,\n    \"ycord\": 151.521\n  }\n}"
+        },
+        {
+          "id": "event_1",
+          "frequency": {
+            "repeat": 20,
+            "every": "minute"
+          },
+          "json": "{\n  \"randomNumber\": random(0, 100)\n}\n"
+        }
+      ],
+      "devices": [
+        {
+          "id": "963519104041",
+          "generated": false
+        },
+        {
+          "id": "PNT2022TMID52274_3",
+          "generated": true
+        },
+        {
+          "id": "PNT2022TMID52274_2",
+          "generated": true
+        },
+        {
+          "id": "PNT2022TMID52274_1",
+          "generated": true
+        }
+      ],
+      "managed": {
+        "enabled": false
+      }
+    }
+  ],
+  "APIKey": "a-dr2sg4-hqognggkev"
+  }
